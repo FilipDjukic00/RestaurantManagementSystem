@@ -1,0 +1,26 @@
+# Visual Studio
+.vs/
+
+# Build folders
+bin/
+obj/
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# NuGet
+packages/
+
+# SQL Server LocalDB
+*.mdf
+*.ldf
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.temp
